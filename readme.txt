@@ -2,7 +2,7 @@ this is a heart rate measuring from camera video.
 
 less than 200 lines of code.
 
-![demo](doc/demo1.png)
+![demo](doc/demo1.png )
 
 
 # how to use:
